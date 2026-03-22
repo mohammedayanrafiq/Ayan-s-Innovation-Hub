@@ -1,2 +1,2 @@
 # Ayan--Innovation-Hub
-A personal innovation lab by Mohammed Ayan Rafiq focused on reverse engineering electronics, rebuilding systems creatively, and experimenting with AI. Projects include AI tools, automation, web apps, and e-commerce platforms. Always exploring, breaking, and rebuilding smarter solutions.
+A personal innovation lab by Mohammed Ayan Rafiq focused on reverse engineering electronics, rebuilding systems creatively, and experimenting with AI. Projects include AI tools, automation, web apps, and e-commerce platforms. Always exploring, breaking, and rebuilding smarter solutions.if you wanna try new tools ,know how ai works,create websites and more. Mail me anytime on:ayanimranrafiq@gmail.com 
